@@ -1,0 +1,38 @@
+{
+  "background_color": "#fbfbfb",
+  "description": "Serviço de entrega de Pizza",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "freddysfazbearpizzadelivery.netlify",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "fnafspizzadelivery",
+  "start_url": "/https://freddysfazbearpizzadelivery.netlify.app/",
+  "theme_color": "#e49d27",
+  "categories": [
+    "entertainment",
+    "fitness",
+    "food",
+    "games",
+    "health",
+    "kids",
+    "shopping",
+    "social",
+    "utilities"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "assets/img/favicon.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "assets/img/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "pt"
+}
