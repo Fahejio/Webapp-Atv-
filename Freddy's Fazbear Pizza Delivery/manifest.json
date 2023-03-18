@@ -7,7 +7,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "fnafspizzadelivery",
-  "start_url": "/https://freddysfazbearpizzadelivery.netlify.app/",
+  "start_url": "/index.html",
   "theme_color": "#e49d27",
   "categories": [
     "entertainment",
