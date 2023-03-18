@@ -35,9 +35,9 @@
       "purpose": "any maskable"
     },
     {
-      "src": "assets/img/icon/android/48.png",
+      "src": "assets/img/icon/android/512.png",
       "type": "image/png",
-      "sizes": "48x48"
+      "sizes": "512x512"
       "purpose": "any maskable"
     }
   ],
