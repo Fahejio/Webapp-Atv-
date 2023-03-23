@@ -33,6 +33,7 @@
       "type": "image/png",
       "sizes": "180x180",
       "purpose": "any maskable"
+    },
     {
       "src": "assets/img/Icon/android/48.png",
       "type": "image/png",
